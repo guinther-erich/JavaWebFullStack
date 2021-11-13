@@ -1,5 +1,5 @@
 # IntOperations
-First program write with Java of the Formação Java Web Full-Stack (JDev Treinamentos).
+IntOperations class with Java of the Formação Java Web Full-Stack (JDev Treinamentos).
 
 # Cautions
 - Use parentheses to enclose the variables you want to use in the account, otherwise the operation will only approximate one result to another. For example:

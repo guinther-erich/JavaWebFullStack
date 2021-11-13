@@ -5,6 +5,7 @@ Java training course offered by JDev Treinamentos.
 1. FirstCode.java
 2. First Java Program
 3. Variables
+4. IntOperations
 
 # Certificates
 1. Logic programming (10 hours)
